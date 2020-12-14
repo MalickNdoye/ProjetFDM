@@ -1,4 +1,4 @@
-﻿ID;Name;Age;Nationality;Overall;Club;Value;Preferred Foot;Position;Height;Weight;Positioning;Finishing
+ID;Name;Age;Nationality;Overall;Club;Value;Preferred Foot;Position;Height;Weight;Positioning;Finishing
 158023;L. Messi;31;Argentina;94;FC Barcelona;110500000;Left;RF;5'7;72;94;95
 20801;Cristiano Ronaldo;33;Portugal;94;Juventus;77000000;Right;ST;6'2;83;95;94
 190871;Neymar Jr;26;Brazil;92;Paris Saint-Germain;118500000;Right;LW;5'9;68;89;87
@@ -451,7 +451,6 @@
 208128;H. Çalhanoğlu;24;Turkey;80;Milan;19500000;Right;CAM;5'10;76;75;65
 207862;M. Ginter;24;Germany;80;Borussia Mönchengladbach;15500000;Right;RWB;6'2;83;55;55
 207599;M. Keane;25;England;80;Everton;15500000;Right;RCB;6'3;82;29;50
-207439;L. Paredes;24;Argentina;80;;0;Right;CM;5'11;75;74;55
 206413;T. Stepanenko;28;Ukraine;80;Shakhtar Donetsk;12000000;Left;RDM;5'11;76;54;53
 205988;L. Shaw;22;England;80;Manchester United;16500000;Left;LB;5'11;75;73;47
 205705;Z. Feddal;28;Morocco;80;Real Betis;12000000;Left;CB;6'3;83;48;40
@@ -536,7 +535,6 @@
 163711;L. Diarra;33;France;80;Paris Saint-Germain;6000000;Right;CDM;5'9;74;50;38
 159147;L. Perrin;32;France;80;AS Saint-Étienne;8500000;Right;RCB;5'11;80;58;55
 158625;Dante;34;Brazil;80;OGC Nice;4500000;Left;CB;6'2;85;41;47
-156713;A. Granqvist;33;Sweden;80;;0;Right;LCB;6'4;84;54;51
 153244;A. Gignac;32;France;80;Tigres U,A,N,L,;12000000;Right;ST;6'2;91;80;83
 150418;M. Gómez;32;Germany;80;VfB Stuttgart;12000000;Right;LS;6'2;89;83;81
 148119;I. Akinfeev;32;Russia;80;PFC CSKA Moscow;8500000;Right;GK;6'1;78;11;13
@@ -566,7 +564,6 @@
 230251;Melvin Parrela;30;Brazil;79;América FC (Minas Gerais);9500000;Right;LCM;6'2;88;67;68
 230212;Antônio Chiamuloira;30;Brazil;79;Internacional;9500000;Left;CB;6'0;79;24;51
 230201;Maikel Catarino;34;Brazil;79;Atlético Mineiro;3600000;Right;RB;5'10;75;57;48
-229909;A. Lunev;26;Russia;79;;0;Right;GK;6'2;80;11;14
 228941;André Silva;22;Portugal;79;Sevilla FC;19000000;Right;ST;6'1;79;83;82
 227796;C. Pulisic;19;United States;79;Borussia Dortmund;18000000;Right;RM;5'10;69;73;67
 227290;M. Dmitrović;26;Serbia;79;SD Eibar;10000000;Left;GK;6'4;90;9;20
@@ -675,7 +672,6 @@
 189271;F. Coquelin;27;France;79;Valencia CF;12000000;Right;LCM;5'10;74;62;54
 188081;Alex Teixeira;28;Brazil;79;Jiangsu Suning FC;13000000;Right;LS;5'8;70;80;77
 187735;A. Dzagoev;28;Russia;79;PFC CSKA Moscow;12500000;Right;RDM;5'10;75;76;70
-187347;I. Smolnikov;29;Russia;79;;0;Right;RB;5'10;70;77;61
 187052;Y. M'Vila;28;France;79;AS Saint-Étienne;11500000;Right;LDM;6'0;80;41;56
 186832;K. Asamoah;29;Ghana;79;Inter;9500000;Left;LB;5'8;75;78;55
 186148;R. Zieler;29;Germany;79;VfB Stuttgart;10000000;Right;GK;6'2;81;15;10
@@ -862,7 +858,6 @@
 189606;J. Baumgartlinger;30;Austria;78;Bayer 04 Leverkusen;7500000;Right;CDM;6'0;86;62;39
 171688;Fábio Coentrão;30;Portugal;78;Rio Ave FC;10000000;Left;RW;5'10;66;76;65
 158121;B. Costil;30;France;78;FC Girondins de Bordeaux;6500000;Right;GK;6'2;88;12;14
-153260;Hilton;40;Brazil;78;Montpellier HSC;0;Right;CB;5'11;78;50;45
 193198;N. Gudelj;26;Serbia;78;Sporting CP;10500000;Right;CDM;6'2;73;67;58
 184252;L. Pratto;30;Argentina;78;River Plate;10000000;Right;LS;6'2;91;80;76
 186302;E. Hernández;30;Mexico;78;Cruz Azul;10000000;Right;LM;5'7;65;70;75
@@ -872,7 +867,6 @@
 174543;C. Bravo;35;Chile;78;Manchester City;2400000;Right;GK;6'0;80;16;13
 180432;Hernanes;33;Brazil;78;Hebei China Fortune FC;6000000;Right;RDM;5'11;77;56;57
 186581;K. Honda;32;Japan;78;Melbourne Victory;8000000;Left;RM;6'0;74;74;65
-187607;A. Dzyuba;29;Russia;78;;0;Right;ST;6'5;91;78;79
 182744;J. Holebas;34;Greece;78;Watford;2900000;Left;LB;6'1;81;62;57
 161754;Javi García;31;Spain;78;Real Betis;7000000;Right;CDM;6'1;82;62;59
 163806;Sergio;31;Spain;78;RC Celta;6500000;Right;GK;5'10;75;12;11
@@ -924,7 +918,6 @@
 162329;K. El Ahmadi;33;Morocco;77;Al Ittihad;3600000;Right;RDM;5'11;71;64;54
 184089;M. Carcela-González;29;Morocco;77;Standard de Liège;8500000;Left;RM;5'9;67;74;72
 198683;M. Gabbiadini;26;Italy;77;Southampton;10500000;Left;ST;5'11;72;79;79
-135451;Gomes;37;Brazil;77;Watford;#NAME?;Right;GK;6'3;95;12;15
 186395;M. Ritchie;28;Scotland;77;Newcastle United;9000000;Left;RM;5'8;76;76;72
 188955;G. Bou;28;Argentina;77;Racing Club;9000000;Right;ST;5'10;80;78;77
 146460;Javi Fuego;34;Spain;77;Villarreal CF;2700000;Right;CDM;6'0;74;58;54
@@ -951,7 +944,6 @@
 196147;G. Moreno;32;Colombia;77;Shanghai Greenland Shenhua FC;7000000;Left;CAM;6'4;83;79;74
 157492;J. Valdivia;34;Chile;77;Colo-Colo;4500000;Right;CAM;5'8;71;62;62
 182836;A. Carroll;29;England;77;West Ham United;9000000;Left;ST;6'4;79;78;77
-204341;Luís Neto;30;Portugal;77;;0;Right;CB;6'2;71;44;33
 142902;A. Pyatov;34;Ukraine;77;Shakhtar Donetsk;3600000;Right;GK;6'3;90;14;9
 196150;T. Gutiérrez;33;Colombia;77;Junior FC;5500000;Right;ST;5'10;81;81;80
 227127;Álex Remiro;23;Spain;77;Athletic Club de Bilbao;9000000;Right;GK;6'3;83;11;13
@@ -995,7 +987,6 @@
 137809;Vágner Love;34;Brazil;77;Beşiktaş JK;4700000;Right;ST;5'7;72;83;77
 214097;B. Bourigeaud;24;France;77;Stade Rennais FC;11500000;Right;LM;5'10;68;74;70
 193361;R. Soriano;27;Italy;77;Torino;9500000;Right;RCM;6'0;76;74;72
-223058;D. Kuzyaev;25;Russia;77;;0;Right;RM;6'0;74;71;64
 152916;R. Sambueza;34;Argentina;77;Deportivo Toluca;4500000;Left;RM;5'9;72;68;70
 194644;Montoya;27;Spain;77;Brighton & Hove Albion;8000000;Right;RB;5'9;73;63;50
 185174;A. Poli;28;Italy;77;Bologna;9000000;Right;RCM;6'0;77;74;54
