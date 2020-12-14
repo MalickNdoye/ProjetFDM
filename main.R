@@ -6,8 +6,9 @@
 library("FactoMineR")
 library("factoextra")
 
-dataset <- read.csv(file="./archive/data.csv", sep=",")
-x <- dataset[1:150,c(5,6,7,8,9,10,11,12)]
-acp1 = PCA(x,scale.unit = TRUE, ncp=5,graph=TRUE)
-acp1
-#fviz_contrib(res.pca, choice = "var", axes = 1, top = 10)
+dataset <- read.csv(file="./archive/data.csv", sep=";")
+x <- dataset[1:200,c(1,3,5,7,11,12,13)]
+pca = PCA(x,scale.unit = TRUE, ncp=5,graph=TRUE)
+pca
+#print(res.pca)
+#fviz_contrib(acp1, choice = "var", axes = 1, top = 10)
