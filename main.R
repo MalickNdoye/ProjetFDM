@@ -18,9 +18,12 @@ acp_fonction <- function(x) {
 acp_fonction(x)
 #fviz_contrib(acp1, choice = "var", axes = 1, top = 10)
 
-
+dataset2 <- dataset[1:100,c(9,10)]
+head(dataset2)
+y <- table(dataset[,9],dataset[,10])
+print(y)
 # 1. convertir les données en tant que table
-dt <- as.table(as.matrix (x))
+# <- as.table(as.matrix (y))
 # 2. Graphique
-mosaic-plot(t (dt), main = "dataset", xlab = "", ylab = "",
-            label = FALSE, show.margins = FALSE)
+balloonplot(t (y), main = "Poste et origine", xlab = "", ylab = "",
+            label = TRUE, show.margins = FALSE)
